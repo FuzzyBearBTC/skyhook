@@ -10,6 +10,7 @@
  */
 class AddressUtility {
 	const BITCOIN_ADDRESS_VERSION = "00";
+	const PEERCOIN_ADDRESS_VERSION = "37";
 	const LITECOIN_ADDRESS_VERSION = "30";
 	const DOGECOIN_ADDRESS_VERSION = "48";
 	const P2SH_ADDRESS_VERSION = '05';
